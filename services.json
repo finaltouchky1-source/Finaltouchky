@@ -1,0 +1,58 @@
+{
+  "services": [
+    {
+      "title": "Interior Painting",
+      "summary": "Walls, ceilings, trim, doors \u2014 crisp lines and smooth finishes.",
+      "bullets": [
+        "Color matching & recommendations",
+        "Drywall patching & prep",
+        "Low-odor options available"
+      ]
+    },
+    {
+      "title": "Exterior Painting",
+      "summary": "Boost curb appeal with durable coatings built for Kentucky weather.",
+      "bullets": [
+        "Power washing & surface prep",
+        "Wood/brick/siding",
+        "Caulking & minor repairs"
+      ]
+    },
+    {
+      "title": "Remodeling",
+      "summary": "Refresh and modernize your home with quality workmanship.",
+      "bullets": [
+        "Kitchen & bath remodels",
+        "Layout updates",
+        "Finishing details"
+      ]
+    },
+    {
+      "title": "Drywall",
+      "summary": "Commercial & residential drywall services from hanging to finishing.",
+      "bullets": [
+        "Install, tape, mud, sand",
+        "Texture matching",
+        "Repairs & patches"
+      ]
+    },
+    {
+      "title": "Flooring & Carpet",
+      "summary": "New floors that transform the feel of your space.",
+      "bullets": [
+        "Laminate, LVP, hardwood",
+        "Carpet install",
+        "Baseboards & transitions"
+      ]
+    },
+    {
+      "title": "Tile",
+      "summary": "Beautiful tile work for bathrooms, kitchens, and backsplashes.",
+      "bullets": [
+        "Showers & tub surrounds",
+        "Backsplashes",
+        "Grout & seal"
+      ]
+    }
+  ]
+}
